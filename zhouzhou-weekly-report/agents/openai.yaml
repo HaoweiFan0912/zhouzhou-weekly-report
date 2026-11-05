@@ -1,0 +1,6 @@
+interface:
+  display_name: "周周的报"
+  short_description: "从 URL Collection 选文，写总结、公众号标题、插图，排版成保险行业周报"
+  default_prompt: "写本周的周周的报"
+policy:
+  allow_implicit_invocation: true
